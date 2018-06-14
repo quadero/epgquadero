@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<tv generator-info-url="http://www.webgrabplus.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten">
+
+
+-<channel id="AMC">
+
+<display-name lang="es">AMC</display-name>
+
+<url>http://www.reportv.com.ar</url>
+
+</channel>
+
+
+-<programme channel="AMC" stop="20180614033000 -0300" start="20180614014500 -0300">
+
+<title lang="es">Mi vida es una ruina</title>
+
+<desc lang="es">La vida rutinaria de Bill da un giro cuando se ve forzado a convertirse en tutor de un adolescente rebelde, al tiempo que enfrenta serios problemas en su matrimonio. De esta manera, el chico cambiará su vida(n)</desc>
+
+
+-<credits>
+
+<director>Bernie Goldmann</director>
+
+<director>Melisa Wallack</director>
+
+<actor>Aaron Eckhart</actor>
+
+<actor>Jessica Alba</actor>
+
+<actor>Elizabeth Banks</actor>
+
+<actor>Logan Lerman</actor>
+
+<actor>Holmes Osborne</actor>
+
+<actor>Todd Louiso</actor>
+
+<actor>Timothy Olyphant</actor>
+
+<actor>Reed Diamond</actor>
+
+<actor>Kristen Wiig</actor>
+
+<actor>Jason Sudeikis</actor>
+
+<actor>Andy Zou</actor>
+
+<actor>Ana Mackenzie</actor>
+
+<actor>Constance Barron</actor>
+
+<actor>Conor O�Farrell</actor>
+
+<actor>Julia Pace Mitchell</actor>
+
+</credits>
+
+<date>2007</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/181686.gif"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614040000 -0300" start="20180614033000 -0300">
+
+<title lang="es">Action Zone</title>
+
+<desc lang="es">'Action Zone' mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas donde los actores te cuentan porqué debes ver sus nuevos éxitos de taquilla(n)</desc>
+
+<date>2010</date>
+
+<category lang="es">Variedades</category>
+
+<category lang="es">Entretenimientos</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2615231.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614043000 -0300" start="20180614040000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614050000 -0300" start="20180614043000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614053000 -0300" start="20180614050000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614060000 -0300" start="20180614053000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614063000 -0300" start="20180614060000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614070000 -0300" start="20180614063000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614073000 -0300" start="20180614070000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614080000 -0300" start="20180614073000 -0300">
+
+<title lang="es">Programa pagado</title>
+
+<desc lang="es">Espacio dedicado a la publicidad de productos comerciales patrocinados por diferentes compañías(n)</desc>
+
+<date>2000</date>
+
+<category lang="es">Venta y Publicidad</category>
+
+<category lang="es">Publicidad</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2696466.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614083000 -0300" start="20180614080000 -0300">
+
+<title lang="es">Action Zone</title>
+
+<desc lang="es">'Action Zone' mantiene a sus seguidores al día con las películas más recientes, los efectos especiales más espectaculares, los mejores estrenos, las grandes premieres mundiales y las entrevistas exclusivas donde los actores te cuentan porqué debes ver sus nuevos éxitos de taquilla(n)</desc>
+
+<date>2010</date>
+
+<category lang="es">Variedades</category>
+
+<category lang="es">Entretenimientos</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2615231.jpg"/>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614104500 -0300" start="20180614083000 -0300">
+
+<title lang="es">The Childhood of a Leader</title>
+
+<desc lang="es">Narra la historia de una familia norteamericana que vive en Francia durante el periodo de posguerra, tras la I Guerra Mundial. La situación del país será el germen del fascismo que surgirá en varios lugares, y el benjamín de la familia será uno de sus futuros líderes(n)</desc>
+
+
+-<credits>
+
+<director>Brady Corbet</director>
+
+<actor>Robert Pattinson</actor>
+
+<actor>Stacy Martin</actor>
+
+<actor>Liam Cunningham</actor>
+
+<actor>Bérénice Bejo</actor>
+
+<actor>Sophie Lane Curtis</actor>
+
+<actor>Rebecca Dayan</actor>
+
+<actor>Caroline Boulton</actor>
+
+<actor>Luca Bercovici</actor>
+
+<actor>Yolande Moreau</actor>
+
+</credits>
+
+<date>2015</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Drama</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2546104.jpg"/>
+
+<country>Francia</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614124500 -0300" start="20180614104500 -0300">
+
+<title lang="es">Locos de ira</title>
+
+<desc lang="es">Dave Buznik es normalmente un hombre pacífico y de buenos modales. Sin embargo, cuando un malentendido a bordo de un avión se sale de control, Dave se ve obligado por una corte a someterse a terapias para apaciguar la ira con un especialista, específicamente el Dr. Buddy Rydell, quien resulta ser un personaje impredecible y psicótico que podría estar necesitando terapia también(n)</desc>
+
+
+-<credits>
+
+<director>Peter Segal</director>
+
+<actor>Adam Sandler</actor>
+
+<actor>Jack Nicholson</actor>
+
+<actor>Marisa Tomei</actor>
+
+<actor>Luis Guzmán</actor>
+
+<actor>Allen Covert</actor>
+
+<actor>Lynne Thigpen</actor>
+
+<actor>Kurt Fuller</actor>
+
+<actor>Krista Allen</actor>
+
+<actor>Jonathan Loughran</actor>
+
+<actor>January Jones</actor>
+
+<actor>Woody Harrelson</actor>
+
+<actor>John Turturro</actor>
+
+<actor>Kevin Nealon</actor>
+
+<actor>Conrad Goode</actor>
+
+<actor>Gina Gallego</actor>
+
+</credits>
+
+<date>2003</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/144954.gif"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614144000 -0300" start="20180614124500 -0300">
+
+<title lang="es">El guardián del zoológico</title>
+
+<desc lang="es">El solitario cuidador de un zoológico quiere abandonar su trabajo porque es incapaz de mantener una relación seria con una chica. Pero los animales a los que cuida deciden echarle una mano para evitar que se vaya(n)</desc>
+
+
+-<credits>
+
+<director>Frank Coraci</director>
+
+<actor>Kevin James</actor>
+
+<actor>Rosario Dawson</actor>
+
+<actor>Leslie Bibb</actor>
+
+<actor>Ken Jeong</actor>
+
+<actor>Donnie Wahlberg</actor>
+
+<actor>Joe Rogan</actor>
+
+<actor>Nat Faxon</actor>
+
+<actor>Steffiana De La Cruz</actor>
+
+<actor>Nick Bakay</actor>
+
+<actor>Jackie Sandler</actor>
+
+<actor>Nicholas Turturro</actor>
+
+<actor>Thomas Gottschalk</actor>
+
+<actor>Brandon Keener</actor>
+
+<actor>Gary Valentine</actor>
+
+<actor>Robin Bakay</actor>
+
+<actor>Judd Apatow</actor>
+
+<actor>Jon Favreau</actor>
+
+<actor>Faizon Love</actor>
+
+<actor>Maya Rudolph</actor>
+
+<actor>Bas Rutten</actor>
+
+<actor>Don Rickles</actor>
+
+<actor>Richie Minervini</actor>
+
+<actor>Tom Woodruff</actor>
+
+<actor>Garon Michael</actor>
+
+</credits>
+
+<date>2011</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/2303041.jpg"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614170500 -0300" start="20180614144000 -0300">
+
+<title lang="es">La terminal</title>
+
+<desc lang="es">Victor Navorski, un ciudadano de un pequeño país del este europeo, se ve involuntariamente exiliado en la terminal internacional del aeropuerto JFK de Nueva York cuando estalla una guerra civil en su tierra de origen. A raíz del conflicto, el pasaporte de este viajero queda anulado y se ve obligado a quedarse en la parada, ya que no puede pisar suelo estadounidense ni subir a ningún avión. Durante su estancia, hará de todo para sobrevivir y entablará relación con el personal que trabaja en este lugar, especialmente con una bella azafata y con el estricto responsable de seguridad de la instalación(n)</desc>
+
+
+-<credits>
+
+<director>Steven Spielberg</director>
+
+<actor>Catherine Zeta-Jones</actor>
+
+<actor>Tom Hanks</actor>
+
+<actor>Stanley Tucci</actor>
+
+<actor>Chi McBride</actor>
+
+<actor>Diego Luna</actor>
+
+<actor>Barry Shabaka Henley</actor>
+
+<actor>Kumar Pallana</actor>
+
+<actor>Zoe Saldana</actor>
+
+<actor>Eddie Jones</actor>
+
+<actor>Jude Ciccolella</actor>
+
+<actor>Corey Reynolds</actor>
+
+<actor>Guillermo Díaz</actor>
+
+<actor>Rini Bell</actor>
+
+<actor>Stephen Mendel</actor>
+
+<actor>Valeriy Nikolaev</actor>
+
+<actor>Michael Nouri</actor>
+
+<actor>Ana Maria Quintana</actor>
+
+<actor>Bob Morrisey</actor>
+
+<actor>Sasha Spielberg</actor>
+
+<actor>Susan Slome</actor>
+
+<actor>Mik Scriba</actor>
+
+<actor>Jim Ishida</actor>
+
+<actor>Carlease Burke</actor>
+
+<actor>Stephon Fuller</actor>
+
+<actor>Dan Finnerty</actor>
+
+<actor>Anastasia Basil</actor>
+
+<actor>Lydia Blanco Garza</actor>
+
+<actor>Joseph Davis</actor>
+
+<actor>Tonya Ivey</actor>
+
+</credits>
+
+<date>2004</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Drama</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/149573.gif"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614190000 -0300" start="20180614170500 -0300">
+
+<title lang="es">¿Y dónde están las rubias?</title>
+
+<desc lang="es">Los hermanos y agentes del FBI, Marcus y Kevin Copeland, accidentalmente dejan escapar a su más reciente blanco. Como castigo, son obligados a escoltar a un par de modelos de la alta sociedad que se dirigen a un evento donde, se presume, serán secuestradas. Pero en el camino las jóvenes se enteran del plan del FBI y se rehúsan a asistir. Marcus y Kevin no tienen más opción que hacerse pasar por las hermanas. Así pues se trasforman de policías afro-americanos a rubias. Esta será la única manera que tendrán de mantener su trabajo(n)</desc>
+
+
+-<credits>
+
+<director>Keenen Ivory Wayans</director>
+
+<actor>Shawn Wayans</actor>
+
+<actor>Marlon Wayans</actor>
+
+<actor>Jaime King</actor>
+
+<actor>Frankie Faison</actor>
+
+<actor>Lochlyn Munro</actor>
+
+<actor>John Heard</actor>
+
+<actor>Busy Philipps</actor>
+
+<actor>Terry Crews</actor>
+
+<actor>Brittany Daniel</actor>
+
+<actor>Eddie Velez</actor>
+
+<actor>Jessica Cauffiel</actor>
+
+<actor>Maitland Ward</actor>
+
+<actor>Anne Dudek</actor>
+
+<actor>Jennifer Carpenter</actor>
+
+<actor>Todd Whalen</actor>
+
+<actor>Stephanie Marie Watkins</actor>
+
+<actor>Launey Walter</actor>
+
+<actor>Mike Vardy</actor>
+
+<actor>Shaina Tianne Unger</actor>
+
+<actor>Jaimie Tucker</actor>
+
+<actor>Michael Teigen</actor>
+
+<actor>Matt Reimer</actor>
+
+<actor>Lucia Oskerova</actor>
+
+</credits>
+
+<date>2004</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/4826508.jpg"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614211500 -0300" start="20180614190000 -0300">
+
+<title lang="es">Ése es mi hijo</title>
+
+<desc lang="es">Tras haber sido padre de forma prematura, Donny cría de manera desastrosa a su hijo Todd, quien, al cumplir los 18 años, opta por independizarse como consecuencia de la complicada relación que llevan. Tras pasar algunos años sin hablarse, Donny se entera que Todd está a punto de casarse con su novia. Decidido a recuperar el tiempo perdido, se presenta en la casa de su hijo con la intención de instalarse y ayudarlos a organizar la inminente boda. Pero su idea está lejos de complacer las intenciones de Todd y su futura esposa. Ahora, Donny tendrá que ingeniárselas para remediar sus equivocaciones del pasado y recomponer la relación con su hijo(n)</desc>
+
+
+-<credits>
+
+<director>Sean Anders</director>
+
+<actor>Adam Sandler</actor>
+
+<actor>Andy Samberg</actor>
+
+<actor>Leighton Meester</actor>
+
+<actor>Vanilla Ice</actor>
+
+<actor>James Caan</actor>
+
+<actor>Milo Ventimiglia</actor>
+
+<actor>Blake Clark</actor>
+
+<actor>Meagen Fay</actor>
+
+<actor>Tony Orlando</actor>
+
+<actor>Will Forte</actor>
+
+<actor>Rachel Dratch</actor>
+
+<actor>Nick Swardson</actor>
+
+<actor>Peggy Stewart</actor>
+
+<actor>Ana Gasteyer</actor>
+
+<actor>Eva Amurri Martino</actor>
+
+<actor>Justin Weaver</actor>
+
+<actor>Susan Sarandon</actor>
+
+<actor>Todd Bridges</actor>
+
+<actor>Dan Patrick</actor>
+
+<actor>Rex Ryan</actor>
+
+<actor>Dana Goodman</actor>
+
+<actor>Julia Lea Wolov</actor>
+
+<actor>Rebecca Marshall</actor>
+
+</credits>
+
+<date>2012</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/302004.gif"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180614221500 -0300" start="20180614211500 -0300">
+
+<title lang="es">Fear the Walking Dead</title>
+
+<sub-title lang="es">S.4 - A-Ep.8 - No One's Gone</sub-title>
+
+<desc lang="es">�Fear the Walking Dead� nos lleva hasta el principio mismo del apocalipsis zombie: una época en la que el mundo estaba cambiando rápidamente debido a causas desconocidas y antes de que alguien pudiese entender con exactitud que era lo que estaba ocurriendo; una época en la que la existencia como todos la habían conocido se trastocó y alteró de una forma nunca antes imaginada. Los retos a superar son inmensos ante el espectáculo demencial de una civilización que se desmorona. �Fear the Walking Dead� es una travesía que documenta el fin de los tiempos, dramatizando la pavorosa desintegración de la sociedad a través de los ojos de una familia tan disfuncional como unida. Madison lucha por conservar la vida que ella ha trabajado muy duro para conseguir. Morgan trata de hacer lo correcto(n)</desc>
+
+
+-<credits>
+
+<actor>Rubén Blades</actor>
+
+<actor>Mercedes Mason</actor>
+
+<actor>Cliff Curtis</actor>
+
+<actor>Alycia Debnam-Carey</actor>
+
+<actor>Kim Dickens</actor>
+
+<actor>Frank Dillane</actor>
+
+<actor>Colman Domingo</actor>
+
+<actor>Elizabeth Rodriguez</actor>
+
+<actor>Toni French</actor>
+
+<actor>Khaira Ledeyo</actor>
+
+</credits>
+
+<date>2015</date>
+
+<category lang="es">Series</category>
+
+<category lang="es">Terror</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/1681368.jpg"/>
+
+<country>EE.UU.</country>
+
+<episode-num>S.4 - A-Ep.8</episode-num>
+
+</programme>
+
+
+-<programme channel="AMC" stop="20180615003000 -0300" start="20180614221500 -0300">
+
+<title lang="es">Ése es mi hijo</title>
+
+<desc lang="es">Tras haber sido padre de forma prematura, Donny cría de manera desastrosa a su hijo Todd, quien, al cumplir los 18 años, opta por independizarse como consecuencia de la complicada relación que llevan. Tras pasar algunos años sin hablarse, Donny se entera que Todd está a punto de casarse con su novia. Decidido a recuperar el tiempo perdido, se presenta en la casa de su hijo con la intención de instalarse y ayudarlos a organizar la inminente boda. Pero su idea está lejos de complacer las intenciones de Todd y su futura esposa. Ahora, Donny tendrá que ingeniárselas para remediar sus equivocaciones del pasado y recomponer la relación con su hijo(n)</desc>
+
+
+-<credits>
+
+<director>Sean Anders</director>
+
+<actor>Adam Sandler</actor>
+
+<actor>Andy Samberg</actor>
+
+<actor>Leighton Meester</actor>
+
+<actor>Vanilla Ice</actor>
+
+<actor>James Caan</actor>
+
+<actor>Milo Ventimiglia</actor>
+
+<actor>Blake Clark</actor>
+
+<actor>Meagen Fay</actor>
+
+<actor>Tony Orlando</actor>
+
+<actor>Will Forte</actor>
+
+<actor>Rachel Dratch</actor>
+
+<actor>Nick Swardson</actor>
+
+<actor>Peggy Stewart</actor>
+
+<actor>Ana Gasteyer</actor>
+
+<actor>Eva Amurri Martino</actor>
+
+<actor>Justin Weaver</actor>
+
+<actor>Susan Sarandon</actor>
+
+<actor>Todd Bridges</actor>
+
+<actor>Dan Patrick</actor>
+
+<actor>Rex Ryan</actor>
+
+<actor>Dana Goodman</actor>
+
+<actor>Julia Lea Wolov</actor>
+
+<actor>Rebecca Marshall</actor>
+
+</credits>
+
+<date>2012</date>
+
+<category lang="es">Cine</category>
+
+<category lang="es">Comedia</category>
+
+<icon src="https://www.reportv.com.ar/buscador/img/Programas/302004.gif"/>
+
+<country>EE.UU.</country>
+
+</programme>
+
+</tv>
