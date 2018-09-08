@@ -5,7 +5,7 @@
     <icon src="https://www.cinesony.com/sites/all/themes/responsive/responsive_cinesony_2/logo.png" />
     <url>http://www.cinesony.com.es</url>
   </channel>
-  <programme start="20180908034000 +0200" stop="20180908053800 +0200" channel="Cine Sony">
+  <programme start="20180908034000 -0300" stop="20180908053800 -0300" channel="Cine Sony">
     <title lang="es">The Juror</title>
     <desc lang="es">Demi Moore y Alec Baldwin protagonizan un thriller psicológico sobre una madre soltera que se ve involucrada en una peligrosa trama cuando resulta elegida para formar parte de un jurado en el juicio de un mafioso . Demi Moore y Alec Baldwin protagonizan un thriller psicológico sobre una madre soltera que se ve involucrada en una peligrosa trama cuando resulta elegida para formar parte de un jurado en el juicio de un mafioso(n)</desc>
     <credits>
@@ -20,7 +20,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180908060000 +0200" stop="20180908073400 +0200" channel="Cine Sony">
+  <programme start="20180908060000 -0300" stop="20180908073400 -0300" channel="Cine Sony">
     <title lang="es">The Colony</title>
     <desc lang="es">Forzado a subterrneo por la prxima edad de hielo, un puesto de avanzada de supervivientes deber luchar por preservar la humanidad en contra de una amenaza an ms salvaje que la naturaleza. Forzado a subterrneo por la prxima edad de hielo, un puesto de avanzada de supervivientes deber luchar por preservar la humanidad en contra de una amenaza an ms salvaje que la naturaleza(n)</desc>
     <credits>
@@ -31,7 +31,7 @@
     </credits>
     <date>2013</date>
   </programme>
-  <programme start="20180908080000 +0200" stop="20180908101000 +0200" channel="Cine Sony">
+  <programme start="20180908080000 -0300" stop="20180908101000 -0300" channel="Cine Sony">
     <title lang="es">The Karate Kid</title>
     <desc lang="es">Un anciano experto en artes marciale le ensena a un chico a defenderse de los matones. Un anciano experto en artes marciale le ensena a un chico a defenderse de los matones(n)</desc>
     <credits>
@@ -43,7 +43,7 @@
     <date>1984</date>
     <category lang="es">Drama, Adventure, Youth Oriented, Action, Sport, Martial Arts, Award Winning</category>
   </programme>
-  <programme start="20180908102000 +0200" stop="20180908121500 +0200" channel="Cine Sony">
+  <programme start="20180908102000 -0300" stop="20180908121500 -0300" channel="Cine Sony">
     <title lang="es">The Karate Kid: Part II</title>
     <desc lang="es">Miyagi viaja a Japón a confrontar un enemigo del pasado. Un brillante choque de culturas y combate. Miyagi viaja a Japón a confrontar un enemigo del pasado. Un brillante choque de culturas y combate(n)</desc>
     <credits>
@@ -55,7 +55,7 @@
     <date>1986</date>
     <category lang="es">Drama, Youth Oriented, Action, Sport, Martial Arts</category>
   </programme>
-  <programme start="20180908123000 +0200" stop="20180908142500 +0200" channel="Cine Sony">
+  <programme start="20180908123000 -0300" stop="20180908142500 -0300" channel="Cine Sony">
     <title lang="es">The Karate Kid III</title>
     <desc lang="es">Daniel está a punto de perder todo, ya que antepuso su orgullo a los principios en esta impactante secuela del exitoso film. Daniel está a punto de perder todo, ya que antepuso su orgullo a los principios en esta impactante secuela del exitoso film(n)</desc>
     <credits>
@@ -67,7 +67,7 @@
     <date>1989</date>
     <category lang="es">Drama, Youth Oriented, Action, Martial Arts</category>
   </programme>
-  <programme start="20180908144000 +0200" stop="20180908162700 +0200" channel="Cine Sony">
+  <programme start="20180908144000 -0300" stop="20180908162700 -0300" channel="Cine Sony">
     <title lang="es">The Next Karate Kid</title>
     <desc lang="es">Sr. Miyagi est de vuelta y l toma un nuevo alumno bajo su proteccin; una adolescente con problemas. Sr. Miyagi est de vuelta y l toma un nuevo alumno bajo su proteccin; una adolescente con problemas(n)</desc>
     <credits>
@@ -78,7 +78,7 @@
     </credits>
     <date>1994</date>
   </programme>
-  <programme start="20180908181500 +0200" stop="20180908200000 +0200" channel="Cine Sony">
+  <programme start="20180908181500 -0300" stop="20180908200000 -0300" channel="Cine Sony">
     <title lang="es">Angel Of Death</title>
     <desc lang="es">Mira Sorvino protagoniza como una detective madrileña que debe detener al asesino responsable de una serie de muertes durante la Semana Santa previa a Pascua(n)</desc>
     <date>2009</date>
@@ -87,7 +87,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180908200000 +0200" stop="20180908213700 +0200" channel="Cine Sony">
+  <programme start="20180908200000 -0300" stop="20180908213700 -0300" channel="Cine Sony">
     <title lang="es">Flight Of Fury</title>
     <desc lang="es">John Sands es un agente especial de las fuerzas aéreas norteamericanas. Los conocimientos adquiridos en misiones anteriores incomodan a sus superiores, que deciden meterlo en la cárcel y borrar su memoria, pero conseguirá escapar. Al ser detenido otra vez le ofrecerán un trato: recuperar el bombardero secreto Stealth, que ha sido secuestrado y que podría caer en manos de una red terrorista, a cambio de su libertad. John Sands es un agente especial de las fuerzas aéreas norteamericanas. Los conocimientos adquiridos en misiones anteriores incomodan a sus superiores, que deciden meterlo en la cárcel y borrar su memoria, pero conseguirá escapar. Al ser detenido otra vez le ofrecerán un trato: recuperar el bombardero secreto Stealth, que ha sido secuestrado y que podría caer en manos de una red terrorista, a cambio de su libertad(n)</desc>
     <credits>
@@ -102,7 +102,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180908215000 +0200" stop="20180908232000 +0200" channel="Cine Sony">
+  <programme start="20180908215000 -0300" stop="20180908232000 -0300" channel="Cine Sony">
     <title lang="es">Out For A Kill</title>
     <desc lang="es">An unsuspecting university professor is an unwitting accomplice in a foiled Mexican cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence. An unsuspecting university professor is an unwitting accomplice in a foiled Mexican cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence(n)</desc>
     <credits>
@@ -117,7 +117,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180908233000 +0200" stop="20180908012000 +0200" channel="Cine Sony">
+  <programme start="20180908233000 -0300" stop="20180908012000 -0300" channel="Cine Sony">
     <title lang="es">Flight Of Fury</title>
     <desc lang="es">John Sands es un agente especial de las fuerzas aéreas norteamericanas. Los conocimientos adquiridos en misiones anteriores incomodan a sus superiores, que deciden meterlo en la cárcel y borrar su memoria, pero conseguirá escapar. Al ser detenido otra vez le ofrecerán un trato: recuperar el bombardero secreto Stealth, que ha sido secuestrado y que podría caer en manos de una red terrorista, a cambio de su libertad. John Sands es un agente especial de las fuerzas aéreas norteamericanas. Los conocimientos adquiridos en misiones anteriores incomodan a sus superiores, que deciden meterlo en la cárcel y borrar su memoria, pero conseguirá escapar. Al ser detenido otra vez le ofrecerán un trato: recuperar el bombardero secreto Stealth, que ha sido secuestrado y que podría caer en manos de una red terrorista, a cambio de su libertad(n)</desc>
     <credits>
@@ -132,7 +132,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909012000 +0200" stop="20180909025000 +0200" channel="Cine Sony">
+  <programme start="20180909012000 -0300" stop="20180909025000 -0300" channel="Cine Sony">
     <title lang="es">Out For A Kill</title>
     <desc lang="es">An unsuspecting university professor is an unwitting accomplice in a foiled Mexican cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence. An unsuspecting university professor is an unwitting accomplice in a foiled Mexican cocaine deal. Wrongly imprisoned, he escapes to take his revenge and prove his innocence(n)</desc>
     <credits>
@@ -147,7 +147,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909030000 +0200" stop="20180909044400 +0200" channel="Cine Sony">
+  <programme start="20180909030000 -0300" stop="20180909044400 -0300" channel="Cine Sony">
     <title lang="es">Felon</title>
     <desc lang="es">A suburban family man is convicted of manslaughter and sent to prison, where he becomes caught up in the vicious cycle of corruption and violence. A suburban family man is convicted of manslaughter and sent to prison, where he becomes caught up in the vicious cycle of corruption and violence(n)</desc>
     <credits>
@@ -162,7 +162,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909045500 +0200" stop="20180909062000 +0200" channel="Cine Sony">
+  <programme start="20180909045500 -0300" stop="20180909062000 -0300" channel="Cine Sony">
     <title lang="es">Wild Cherry</title>
     <desc lang="es">Una estudiante virginal de la escuela secundaria decide vengarse de su novio deportista cuando descubre que est solo saliendo con ella con la esperanza de que ella termine en el "bang book" de su equipos. Una estudiante virginal de la escuela secundaria decide vengarse de su novio deportista cuando descubre que est solo saliendo con ella con la esperanza de que ella termine en el bang book de su equipos(n)</desc>
     <credits>
@@ -178,7 +178,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909063000 +0200" stop="20180909081100 +0200" channel="Cine Sony">
+  <programme start="20180909063000 -0300" stop="20180909081100 -0300" channel="Cine Sony">
     <title lang="es">Never Back Down: No Surrender</title>
     <desc lang="es">Tras haber renunciado a las ligas nuevas y poderosas que obligan a los peleadores a usar estimulantes para aumentar su rendimiento, Case Walker (Michael Jai White), el antiguo campeón de la MMA, se ha mantenido al margen de la fama, compitiendo en pequeños torneos regionales. Hasta que Brody James (Josh Barnett), su viejo amigo y famoso peleador, lo convence de acompañarlo a Tailandia y ayudarlo a entrenar para una gran pelea contra el mortífero e invicto Caesar Braga (Nathan Jones). Pero cuando Brody se lastima durante su entrenamiento, Walker es presionado por un promotor poderoso y sin escrúpulos (Esai Morales) para reemplazar a James y enfrentarse al oponente más grande de su vida -pero únicamente bajo sus propios términos. Tras haber renunciado a las ligas nuevas y poderosas que obligan a los peleadores a usar estimulantes para aumentar su rendimiento, Case Walker (Michael Jai White), el antiguo campeón de la MMA, se ha mantenido al margen de la fama, compitiendo en pequeños torneos regionales. Hasta que Brody James (Josh Barnett), su viejo amigo y famoso peleador, lo convence de acompañarlo a Tailandia y ayudarlo a entrenar para una gran pelea contra el mortífero e invicto Caesar Braga (Nathan Jones). Pero cuando Brody se lastima durante su entrenamiento, Walker es presionado por un promotor poderoso y sin escrúpulos (Esai Morales) para reemplazar a James y enfrentarse al oponente más grande de su vida -pero únicamente bajo sus propios términos(n)</desc>
     <credits>
@@ -192,7 +192,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909082000 +0200" stop="20180909100100 +0200" channel="Cine Sony">
+  <programme start="20180909082000 -0300" stop="20180909100100 -0300" channel="Cine Sony">
     <title lang="es">Hard Luck</title>
     <desc lang="es">Tres historias entrelazadas acerca de contrabandistas; un asesino en serie y traficantes de drogas, un antiguo narcotraficante, y un ama de casa de mediana edad. Tres historias entrelazadas acerca de contrabandistas; un asesino en serie y traficantes de drogas, un antiguo narcotraficante, y un ama de casa de mediana edad(n)</desc>
     <credits>
@@ -206,7 +206,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909101000 +0200" stop="20180909115000 +0200" channel="Cine Sony">
+  <programme start="20180909101000 -0300" stop="20180909115000 -0300" channel="Cine Sony">
     <title lang="es">After Earth</title>
     <desc lang="es">Cuando su nave espacial sufre un accidente, Kitai Raige (Jaden Smith) y Cypher (Will Smith), su legendario padre, quedan varados en la Tierra, 1,000 años después de que una serie de eventos clataclísmicos obligaron a que todos los seres humanos abandonaran el planeta. Con Cypher lastimado, Kitai debe emprender un peligroso viaje para enviar señales de auxilio. Ellos deben aprender a trabajar juntos y confiar el uno en el otro, si es que desean tener oportunidad de volver a casa. Cuando su nave espacial sufre un accidente, Kitai Raige (Jaden Smith) y Cypher (Will Smith), su legendario padre, quedan varados en la Tierra, 1,000 años después de que una serie de eventos clataclísmicos obligaron a que todos los seres humanos abandonaran el planeta. Con Cypher lastimado, Kitai debe emprender un peligroso viaje para enviar señales de auxilio. Ellos deben aprender a trabajar juntos y confiar el uno en el otro, si es que desean tener oportunidad de volver a casa(n)</desc>
     <credits>
@@ -218,7 +218,7 @@
     <date>2013</date>
     <category lang="es">Adventure, Science Fiction</category>
   </programme>
-  <programme start="20180909120000 +0200" stop="20180909135000 +0200" channel="Cine Sony">
+  <programme start="20180909120000 -0300" stop="20180909135000 -0300" channel="Cine Sony">
     <title lang="es">Never Back Down</title>
     <desc lang="es">Jack se ve envuelto en una dura pelea durante una fiesta, en la que es vencido y humillado. Avergonzado, Jack decide aprender artes marciales de la mano de un mentor, quien le enseñará disciplina y las claves para llegar a lo mas alto. Jack se ve envuelto en una dura pelea durante una fiesta, en la que es vencido y humillado. Avergonzado, Jack decide aprender artes marciales de la mano de un mentor, quien le enseñará disciplina y las claves para llegar a lo mas alto(n)</desc>
     <credits>
@@ -230,7 +230,7 @@
     <date>2008</date>
     <category lang="es">Drama, Action</category>
   </programme>
-  <programme start="20180909140000 +0200" stop="20180909154100 +0200" channel="Cine Sony">
+  <programme start="20180909140000 -0300" stop="20180909154100 -0300" channel="Cine Sony">
     <title lang="es">Never Back Down: No Surrender</title>
     <desc lang="es">Tras haber renunciado a las ligas nuevas y poderosas que obligan a los peleadores a usar estimulantes para aumentar su rendimiento, Case Walker (Michael Jai White), el antiguo campeón de la MMA, se ha mantenido al margen de la fama, compitiendo en pequeños torneos regionales. Hasta que Brody James (Josh Barnett), su viejo amigo y famoso peleador, lo convence de acompañarlo a Tailandia y ayudarlo a entrenar para una gran pelea contra el mortífero e invicto Caesar Braga (Nathan Jones). Pero cuando Brody se lastima durante su entrenamiento, Walker es presionado por un promotor poderoso y sin escrúpulos (Esai Morales) para reemplazar a James y enfrentarse al oponente más grande de su vida -pero únicamente bajo sus propios términos. Tras haber renunciado a las ligas nuevas y poderosas que obligan a los peleadores a usar estimulantes para aumentar su rendimiento, Case Walker (Michael Jai White), el antiguo campeón de la MMA, se ha mantenido al margen de la fama, compitiendo en pequeños torneos regionales. Hasta que Brody James (Josh Barnett), su viejo amigo y famoso peleador, lo convence de acompañarlo a Tailandia y ayudarlo a entrenar para una gran pelea contra el mortífero e invicto Caesar Braga (Nathan Jones). Pero cuando Brody se lastima durante su entrenamiento, Walker es presionado por un promotor poderoso y sin escrúpulos (Esai Morales) para reemplazar a James y enfrentarse al oponente más grande de su vida -pero únicamente bajo sus propios términos(n)</desc>
     <credits>
@@ -244,7 +244,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909160000 +0200" stop="20180909173500 +0200" channel="Cine Sony">
+  <programme start="20180909160000 -0300" stop="20180909173500 -0300" channel="Cine Sony">
     <title lang="es">Sniper 3</title>
     <desc lang="es">El francotirador más fatal del Cuerpo de Marines de los EE.UU. debe enfrentar al último enemigo, su mejor amigo. El francotirador más fatal del Cuerpo de Marines de los EE.UU. debe enfrentar al último enemigo, su mejor amigo(n)</desc>
     <credits>
@@ -259,7 +259,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909200000 +0200" stop="20180909214600 +0200" channel="Cine Sony">
+  <programme start="20180909200000 -0300" stop="20180909214600 -0300" channel="Cine Sony">
     <title lang="es">Underworld Evolution</title>
     <desc lang="es">Kate Beckinsale regresa como la heroína vampira en la esperada secuela de Underworld. Mientras se desata la guerra ente los Traficantes de la muerte y los Lycans, Selene (Beckinsale) el guerrero vampiro y Michael (Speedman), el híbrido hombre lobo trabajan juntos para descubrir los secretos de sus propios orígenes. Kate Beckinsale regresa como la heroína vampira en la esperada secuela de Underworld. Mientras se desata la guerra ente los Traficantes de la muerte y los Lycans, Selene (Beckinsale) el guerrero vampiro y Michael (Speedman), el híbrido hombre lobo trabajan juntos para descubrir los secretos de sus propios orígenes(n)</desc>
     <credits>
@@ -274,7 +274,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180909220000 +0200" stop="20180909001000 +0200" channel="Cine Sony">
+  <programme start="20180909220000 -0300" stop="20180909001000 -0300" channel="Cine Sony">
     <title lang="es">The Green Hornet</title>
     <desc lang="es">The exploits of newspaper publisher Britt Reid, whose secret identity is "The Green Hornet," a crimefighter dedicated to protecting the lives and rights of the city's citizens. The exploits of newspaper publisher Britt Reid, whose secret identity is The Green Hornet, a crimefighter dedicated to protecting the lives and rights of the city's citizens(n)</desc>
     <credits>
@@ -286,7 +286,7 @@
     <date>2011</date>
     <category lang="es">Comedy, Crime, Adventure, Action, 3-D</category>
   </programme>
-  <programme start="20180910001000 +0200" stop="20180910015600 +0200" channel="Cine Sony">
+  <programme start="20180910001000 -0300" stop="20180910015600 -0300" channel="Cine Sony">
     <title lang="es">Underworld Evolution</title>
     <desc lang="es">Kate Beckinsale regresa como la heroína vampira en la esperada secuela de Underworld. Mientras se desata la guerra ente los Traficantes de la muerte y los Lycans, Selene (Beckinsale) el guerrero vampiro y Michael (Speedman), el híbrido hombre lobo trabajan juntos para descubrir los secretos de sus propios orígenes. Kate Beckinsale regresa como la heroína vampira en la esperada secuela de Underworld. Mientras se desata la guerra ente los Traficantes de la muerte y los Lycans, Selene (Beckinsale) el guerrero vampiro y Michael (Speedman), el híbrido hombre lobo trabajan juntos para descubrir los secretos de sus propios orígenes(n)</desc>
     <credits>
@@ -301,7 +301,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180910021000 +0200" stop="20180910040800 +0200" channel="Cine Sony">
+  <programme start="20180910021000 -0300" stop="20180910040800 -0300" channel="Cine Sony">
     <title lang="es">The Green Hornet</title>
     <desc lang="es">The exploits of newspaper publisher Britt Reid, whose secret identity is "The Green Hornet," a crimefighter dedicated to protecting the lives and rights of the city's citizens. The exploits of newspaper publisher Britt Reid, whose secret identity is The Green Hornet, a crimefighter dedicated to protecting the lives and rights of the city's citizens(n)</desc>
     <credits>
@@ -313,7 +313,7 @@
     <date>2011</date>
     <category lang="es">Comedy, Crime, Adventure, Action, 3-D</category>
   </programme>
-  <programme start="20180910042000 +0200" stop="20180910055000 +0200" channel="Cine Sony">
+  <programme start="20180910042000 -0300" stop="20180910055000 -0300" channel="Cine Sony">
     <title lang="es">The Colombian</title>
     <desc lang="es">La historia de un leyenda en ciernes, "The Colombian" sigue la vida violenta de un hombre que abandona todo y todas las personas en su vida para, sin ayuda, combatir carteles de la cocaína que están destruyendo su país. La historia de un leyenda en ciernes, The Colombian sigue la vida violenta de un hombre que abandona todo y todas las personas en su vida para, sin ayuda, combatir carteles de la cocaína que están destruyendo su país(n)</desc>
     <credits>
@@ -324,7 +324,7 @@
     <date>2011</date>
     <category lang="es">Drama, Thriller</category>
   </programme>
-  <programme start="20180910062000 +0200" stop="20180910082700 +0200" channel="Cine Sony">
+  <programme start="20180910062000 -0300" stop="20180910082700 -0300" channel="Cine Sony">
     <title lang="es">Bram Stoker's Dracula</title>
     <desc lang="es">Based on Bram Stoker's classic and dark love story about the vampire who travels from Eastern Europe to England in search of human love. Based on Bram Stoker's classic and dark love story about the vampire who travels from Eastern Europe to England in search of human love(n)</desc>
     <credits>
@@ -339,7 +339,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180910085000 +0200" stop="20180910103200 +0200" channel="Cine Sony">
+  <programme start="20180910085000 -0300" stop="20180910103200 -0300" channel="Cine Sony">
     <title lang="es">Eyeborgs</title>
     <desc lang="es">Un agente federal investiga cuando aparecen inconsistencias en la evidencia fotogrfica de varios asesinatos registrados por cmaras robticas mviles. Un agente federal investiga cuando aparecen inconsistencias en la evidencia fotogrfica de varios asesinatos registrados por cmaras robticas mviles(n)</desc>
     <credits>
@@ -354,7 +354,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180910105000 +0200" stop="20180910120600 +0200" channel="Cine Sony">
+  <programme start="20180910105000 -0300" stop="20180910120600 -0300" channel="Cine Sony">
     <title lang="es">Open Season 2</title>
     <desc lang="es">El Sr. Weenie, un perro salchicha domesticado, se escapa para unirse a la rebelión de los animales del bosque. El Sr. Weenie, un perro salchicha domesticado, se escapa para unirse a la rebelión de los animales del bosque(n)</desc>
     <credits>
@@ -363,7 +363,7 @@
     <date>2009</date>
     <category lang="es">Comedy, Adventure, Family, Animated</category>
   </programme>
-  <programme start="20180910123000 +0200" stop="20180910135400 +0200" channel="Cine Sony">
+  <programme start="20180910123000 -0300" stop="20180910135400 -0300" channel="Cine Sony">
     <title lang="es">Stuart Little</title>
     <desc lang="es">La familia Little adopta a un niño adorable llamado Stuart, quien se parece bastante a un ratón. El sr. y la sra. Little se enamoran de Stuart rápidamente, pero su hijo George no está tan seguro de su nuevo hermano. La familia Little adopta a un niño adorable llamado Stuart, quien se parece bastante a un ratón. El sr. y la sra. Little se enamoran de Stuart rápidamente, pero su hijo George no está tan seguro de su nuevo hermano(n)</desc>
     <credits>
@@ -375,7 +375,7 @@
     <date>1999</date>
     <category lang="es">Comedy, Adventure, Action, Fantasy, Award Winning, Animated, Children's</category>
   </programme>
-  <programme start="20180910141000 +0200" stop="20180910154300 +0200" channel="Cine Sony">
+  <programme start="20180910141000 -0300" stop="20180910154300 -0300" channel="Cine Sony">
     <title lang="es">Ace Ventura: When Nature Calls</title>
     <desc lang="es">Ace Ventura: Detective de mascotas, regresa de un retiro espiritual para investigar la desaparición de un poco común murciélago, el animal sagrado de una tribu africana. Ace Ventura: Detective de mascotas, regresa de un retiro espiritual para investigar la desaparición de un poco común murciélago, el animal sagrado de una tribu africana(n)</desc>
     <credits>
@@ -387,7 +387,7 @@
     <date>1995</date>
     <category lang="es">Comedy</category>
   </programme>
-  <programme start="20180910160000 +0200" stop="20180910174200 +0200" channel="Cine Sony">
+  <programme start="20180910160000 -0300" stop="20180910174200 -0300" channel="Cine Sony">
     <title lang="es">My Girl</title>
     <desc lang="es">Una hipocandríaca joven de 11 años experimenta seria confusión emocional, cuando su padre viudo se enamora de una mujer. Una hipocandríaca joven de 11 años experimenta seria confusión emocional, cuando su padre viudo se enamora de una mujer(n)</desc>
     <credits>
@@ -399,7 +399,7 @@
     <date>1991</date>
     <category lang="es">Drama, Comedy, Romance, Youth Oriented, Award Winning</category>
   </programme>
-  <programme start="20180910200000 +0200" stop="20180910214300 +0200" channel="Cine Sony">
+  <programme start="20180910200000 -0300" stop="20180910214300 -0300" channel="Cine Sony">
     <title lang="es">The Wedding Planner</title>
     <desc lang="es">Una comedia romántica sobre el amor, el destino y otros eventos que no se pueden planear. Mary Fiore (Lopez) es una organizadora de bodas cuya singular dedicación a su trabajo le ha impedido encontrar al hombre de sus sueños. Cuando por fin se encuentra con el "Sr. Indicado" (McConaughey), este resulta ser el novio de una de sus próximas bodas. Una comedia romántica sobre el amor, el destino y otros eventos que no se pueden planear. Mary Fiore (Lopez) es una organizadora de bodas cuya singular dedicación a su trabajo le ha impedido encontrar al hombre de sus sueños. Cuando por fin se encuentra con el Sr. Indicado (McConaughey), este resulta ser el novio de una de sus próximas bodas(n)</desc>
     <credits>
@@ -411,7 +411,7 @@
     <date>2001</date>
     <category lang="es">Comedy, Romance, Award Winning, Women's</category>
   </programme>
-  <programme start="20180910220000 +0200" stop="20180910234500 +0200" channel="Cine Sony">
+  <programme start="20180910220000 -0300" stop="20180910234500 -0300" channel="Cine Sony">
     <title lang="es">Guess Who</title>
     <desc lang="es">Cuando su hija trae a casa a su nuevo novio, su padre descubre que ha olvidado decirle tres cosas: No tiene un centavo. Está desempleado. Y es blanco. Cuando su hija trae a casa a su nuevo novio, su padre descubre que ha olvidado decirle tres cosas: No tiene un centavo. Está desempleado. Y es blanco(n)</desc>
     <credits>
@@ -423,7 +423,7 @@
     <date>2005</date>
     <category lang="es">Comedy</category>
   </programme>
-  <programme start="20180910235000 +0200" stop="20180910015000 +0200" channel="Cine Sony">
+  <programme start="20180910235000 -0300" stop="20180910015000 -0300" channel="Cine Sony">
     <title lang="es">The Wedding Planner</title>
     <desc lang="es">Una comedia romántica sobre el amor, el destino y otros eventos que no se pueden planear. Mary Fiore (Lopez) es una organizadora de bodas cuya singular dedicación a su trabajo le ha impedido encontrar al hombre de sus sueños. Cuando por fin se encuentra con el "Sr. Indicado" (McConaughey), este resulta ser el novio de una de sus próximas bodas. Una comedia romántica sobre el amor, el destino y otros eventos que no se pueden planear. Mary Fiore (Lopez) es una organizadora de bodas cuya singular dedicación a su trabajo le ha impedido encontrar al hombre de sus sueños. Cuando por fin se encuentra con el Sr. Indicado (McConaughey), este resulta ser el novio de una de sus próximas bodas(n)</desc>
     <credits>
@@ -435,7 +435,7 @@
     <date>2001</date>
     <category lang="es">Comedy, Romance, Award Winning, Women's</category>
   </programme>
-  <programme start="20180911015000 +0200" stop="20180911033500 +0200" channel="Cine Sony">
+  <programme start="20180911015000 -0300" stop="20180911033500 -0300" channel="Cine Sony">
     <title lang="es">Guess Who</title>
     <desc lang="es">Cuando su hija trae a casa a su nuevo novio, su padre descubre que ha olvidado decirle tres cosas: No tiene un centavo. Está desempleado. Y es blanco. Cuando su hija trae a casa a su nuevo novio, su padre descubre que ha olvidado decirle tres cosas: No tiene un centavo. Está desempleado. Y es blanco(n)</desc>
     <credits>
@@ -447,7 +447,7 @@
     <date>2005</date>
     <category lang="es">Comedy</category>
   </programme>
-  <programme start="20180911040000 +0200" stop="20180911054200 +0200" channel="Cine Sony">
+  <programme start="20180911040000 -0300" stop="20180911054200 -0300" channel="Cine Sony">
     <title lang="es">Eyeborgs</title>
     <desc lang="es">Un agente federal investiga cuando aparecen inconsistencias en la evidencia fotogrfica de varios asesinatos registrados por cmaras robticas mviles. Un agente federal investiga cuando aparecen inconsistencias en la evidencia fotogrfica de varios asesinatos registrados por cmaras robticas mviles(n)</desc>
     <credits>
@@ -462,7 +462,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180911060000 +0200" stop="20180911073900 +0200" channel="Cine Sony">
+  <programme start="20180911060000 -0300" stop="20180911073900 -0300" channel="Cine Sony">
     <title lang="es">Contract Killers</title>
     <desc lang="es">(n)</desc>
     <credits>
@@ -473,7 +473,7 @@
     </credits>
     <date>2008</date>
   </programme>
-  <programme start="20180911075000 +0200" stop="20180911093900 +0200" channel="Cine Sony">
+  <programme start="20180911075000 -0300" stop="20180911093900 -0300" channel="Cine Sony">
     <title lang="es">Freejack</title>
     <desc lang="es">(n)</desc>
     <credits>
@@ -488,7 +488,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180911095000 +0200" stop="20180911112300 +0200" channel="Cine Sony">
+  <programme start="20180911095000 -0300" stop="20180911112300 -0300" channel="Cine Sony">
     <title lang="es">Ace Ventura: When Nature Calls</title>
     <desc lang="es">Ace Ventura: Detective de mascotas, regresa de un retiro espiritual para investigar la desaparición de un poco común murciélago, el animal sagrado de una tribu africana. Ace Ventura: Detective de mascotas, regresa de un retiro espiritual para investigar la desaparición de un poco común murciélago, el animal sagrado de una tribu africana(n)</desc>
     <credits>
@@ -500,7 +500,7 @@
     <date>1995</date>
     <category lang="es">Comedy</category>
   </programme>
-  <programme start="20180911113000 +0200" stop="20180911134000 +0200" channel="Cine Sony">
+  <programme start="20180911113000 -0300" stop="20180911134000 -0300" channel="Cine Sony">
     <title lang="es">The Karate Kid</title>
     <desc lang="es">Un anciano experto en artes marciale le ensena a un chico a defenderse de los matones. Un anciano experto en artes marciale le ensena a un chico a defenderse de los matones(n)</desc>
     <credits>
@@ -512,7 +512,7 @@
     <date>1984</date>
     <category lang="es">Drama, Adventure, Youth Oriented, Action, Sport, Martial Arts, Award Winning</category>
   </programme>
-  <programme start="20180911135000 +0200" stop="20180911154500 +0200" channel="Cine Sony">
+  <programme start="20180911135000 -0300" stop="20180911154500 -0300" channel="Cine Sony">
     <title lang="es">The Karate Kid: Part II</title>
     <desc lang="es">Miyagi viaja a Japón a confrontar un enemigo del pasado. Un brillante choque de culturas y combate. Miyagi viaja a Japón a confrontar un enemigo del pasado. Un brillante choque de culturas y combate(n)</desc>
     <credits>
@@ -524,7 +524,7 @@
     <date>1986</date>
     <category lang="es">Drama, Youth Oriented, Action, Sport, Martial Arts</category>
   </programme>
-  <programme start="20180911160000 +0200" stop="20180911173500 +0200" channel="Cine Sony">
+  <programme start="20180911160000 -0300" stop="20180911173500 -0300" channel="Cine Sony">
     <title lang="es">Ghost Rider Spirit of Vengeance</title>
     <desc lang="es">Johnny Blaze, alter ego de Ghost Rider, se esconde en un remoto rincón de Europa del Este luchando por reprimir su maldición. Blaze es reclutado por una secta cristiana para combatir a Satán, que quiere tomar el cuerpo de su hijo mortal en el cumpleaños del niño. Johnny Blaze, alter ego de Ghost Rider, se esconde en un remoto rincón de Europa del Este luchando por reprimir su maldición. Blaze es reclutado por una secta cristiana para combatir a Satán, que quiere tomar el cuerpo de su hijo mortal en el cumpleaños del niño(n)</desc>
     <credits>
@@ -537,7 +537,7 @@
     <date>2012</date>
     <category lang="es">Adventure, Thriller, Action, 3-D</category>
   </programme>
-  <programme start="20180911200000 +0200" stop="20180911213300 +0200" channel="Cine Sony">
+  <programme start="20180911200000 -0300" stop="20180911213300 -0300" channel="Cine Sony">
     <title lang="es">Executor</title>
     <desc lang="es">Un asesino despiadado, entrenado por un sacerdote corrupto para matar en nombre de Dios, decide reevaluar su propósito en la vida luego de salvar de la muerte a un pequeño niño. Un asesino despiadado, entrenado por un sacerdote corrupto para matar en nombre de Dios, decide reevaluar su propósito en la vida luego de salvar de la muerte a un pequeño niño(n)</desc>
     <credits>
@@ -549,7 +549,7 @@
     <date>2017</date>
     <category lang="es">Action</category>
   </programme>
-  <programme start="20180911214000 +0200" stop="20180911232400 +0200" channel="Cine Sony">
+  <programme start="20180911214000 -0300" stop="20180911232400 -0300" channel="Cine Sony">
     <title lang="es">Felon</title>
     <desc lang="es">A suburban family man is convicted of manslaughter and sent to prison, where he becomes caught up in the vicious cycle of corruption and violence. A suburban family man is convicted of manslaughter and sent to prison, where he becomes caught up in the vicious cycle of corruption and violence(n)</desc>
     <credits>
@@ -564,7 +564,7 @@
       <value>R</value>
     </rating>
   </programme>
-  <programme start="20180911234000 +0200" stop="20180911013000 +0200" channel="Cine Sony">
+  <programme start="20180911234000 -0300" stop="20180911013000 -0300" channel="Cine Sony">
     <title lang="es">Executor</title>
     <desc lang="es">Un asesino despiadado, entrenado por un sacerdote corrupto para matar en nombre de Dios, decide reevaluar su propósito en la vida luego de salvar de la muerte a un pequeño niño. Un asesino despiadado, entrenado por un sacerdote corrupto para matar en nombre de Dios, decide reevaluar su propósito en la vida luego de salvar de la muerte a un pequeño niño(n)</desc>
     <credits>
