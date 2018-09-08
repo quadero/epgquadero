@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Cine Sony">
-    <display-name lang="es">(FB) CINE SONY HD*</display-name>
+    <display-name lang="es">(FB)CINE SONY HD*</display-name>
     <icon src="https://www.cinesony.com/sites/all/themes/responsive/responsive_cinesony_2/logo.png" />
     <url>http://www.cinesony.com.es</url>
   </channel>
