@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Baby TV (Latin America)">
-    <display-name lang="es">(FB) BABY TV HD</display-name>
+    <display-name lang="es">(FB) BABY TV HD*</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="A&amp;E HDTV (Latin America)">
@@ -81,7 +81,7 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Elgourmet.com (Norte)">
-    <display-name lang="es">El Gourmet MX FHD</display-name>
+    <display-name lang="es">El Gourmet MX FHD | HQ</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="ESPN Latin America North HDTV">
@@ -149,7 +149,7 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="HBO 2 HDTV (Mexico)">
-    <display-name lang="es">HBO 2 HD dual (L)</display-name>
+    <display-name lang="es">HBO 2 HD dual (L) . MX</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="HBO Family (Spanish)">
@@ -157,7 +157,7 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="HBO Latin America HDTV (West)">
-    <display-name lang="es">HBO HD dual (L)</display-name>
+    <display-name lang="es">HBO HD dual (L) mx</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="HBO Plus HDTV (Mexico)">
@@ -181,7 +181,7 @@
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <channel id="Imagen TV HDTV ">
-    <display-name lang="es">Imagen Televisi</display-name>
+    <display-name lang="es">Imagen Television MX FHD</display-name>
     <url>http://www.mexico.yo.tv</url>
   </channel>
   <programme start="20180910040000 -0300" stop="20180910043000 -0300" channel="Baby TV (Latin America)">
