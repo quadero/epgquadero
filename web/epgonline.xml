@@ -101,6 +101,11 @@
     <icon src="http://181.30.4.186/buscador/img/Logos/2838965.gif" />
     <url>http://www.reportv.com.ar</url>
   </channel>
+  <channel id="CANAL 13 C - 13CABLE">
+    <display-name lang="es">CANAL 13 C</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/6521123.jpg" />
+    <url>http://www.reportv.com.ar</url>
+  </channel>
   <programme start="20180910073000 -0300" stop="20180910083000 -0300" channel="I-NET TV">
     <title lang="es">Resumen noticias</title>
     <desc lang="es">Resumen de noticias e informaciones(n)</desc>
